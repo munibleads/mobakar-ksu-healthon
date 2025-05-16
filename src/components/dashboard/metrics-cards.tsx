@@ -119,8 +119,8 @@ export function MetricsCards() {
           label: "vs. last year"
         }}
         status={{
-          label: "Need Focus",
-          variant: "warning"
+          label: "above target",
+          variant: "success"
         }}
       />
     </div>
