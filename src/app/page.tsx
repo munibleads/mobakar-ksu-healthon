@@ -9,15 +9,15 @@ import { Badge } from "@/components/ui/badge";
 export default function DashboardPage() {
   return (
     <div className="flex-1 space-y-4 p-8 pt-6">
-      <div className="flex items-center justify-between space-y-2">
+      <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between space-y-4 sm:space-y-0">
         <div>
-          <h2 className="text-3xl font-bold tracking-tight">مبكر | Mobakar</h2>
+          <h2 className="text-3xl font-bold tracking-tight">مبكر | Mobakar AI</h2>
           <p className="text-muted-foreground flex items-center gap-2">
             AI Cancer Awareness Dashboard
             <Badge variant="outline" className="bg-green-100 text-green-800 border-none">Demo Only</Badge>
           </p>
         </div>
-        <div className="flex items-center space-x-2">
+        <div className="flex items-center gap-2">
           <Button variant="outline" className="relative">
             <BellIcon className="h-4 w-4" />
             <span className="absolute -top-1 -right-1 h-3 w-3 rounded-full bg-red-500"></span>
