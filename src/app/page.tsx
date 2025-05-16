@@ -192,7 +192,7 @@ export default function DashboardPage() {
                       <div className="w-2 h-8 rounded-sm bg-pink-500"></div>
                       <div>
                         <h4 className="font-medium text-sm">Breast Cancer</h4>
-                        <p className="text-xs text-slate-500">Ages 40-74 years</p>
+                        <p className="text-xs text-slate-500">Ages 40-69 years</p>
                       </div>
                     </div>
                     <Badge className="bg-green-100 text-green-800">85%</Badge>
