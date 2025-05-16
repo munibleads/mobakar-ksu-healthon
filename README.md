@@ -27,14 +27,5 @@ Mobakar is a modern web application that leverages artificial intelligence to pr
 - **Backend**
   - Next.js API Routes
 
-## To Run the Development Server for Demo:
+## To View the Live App Dashboard go to https://mobakar-ksu-healthon.vercel.app
 
-1. Install dependencies
-```bash
-npm install
-
-2. Run the development server
-```bash
-npm run dev
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the application running.
