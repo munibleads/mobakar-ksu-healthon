@@ -13,7 +13,7 @@ export default function DashboardPage() {
         <div>
           <h2 className="text-3xl font-bold tracking-tight">مبكر | Mobakar</h2>
           <p className="text-muted-foreground flex items-center gap-2">
-            Cancer Screening Dashboard - Kingdom of Saudi Arabia
+            AI Cancer Awareness Dashboard
             <Badge variant="outline" className="bg-green-100 text-green-800 border-none">Demo Only</Badge>
           </p>
         </div>
