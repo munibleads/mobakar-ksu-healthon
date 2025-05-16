@@ -11,10 +11,11 @@ An AI-powered platform designed to raise awareness about cancer through interact
 ## Project Overview
 
 Mobakar is a modern web application that leverages artificial intelligence to provide:
-- Educational resources about different types of cancer
+- Analyze mass data of General Population, integrated with MOH or Sehaty app.
+- AI voice and sms agent sends personalized content to increase cancer screening
+- Automated screening scheduling and management with clinics and family doctors
 - Interactive Q&A system for cancer-related queries
-- Personalized awareness content
-- User-friendly interface for accessing cancer information
+- User-friendly interface for accessing campaign information
 
 ## Tech Stack
 
