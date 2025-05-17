@@ -1,7 +1,7 @@
 # Prototype developed for KSU Healthon on 15/05/2025
 
 # Project Name: Mobakar AI
-# Team Number: 83
+# Team Number: 110
 # Core Developer: Munib Jamil
 
 # Mobakar - AI Cancer Awareness
