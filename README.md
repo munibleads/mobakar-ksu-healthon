@@ -2,7 +2,6 @@
 
 # Project Name: Mobakar AI
 # Team Number: 110
-# Core Developer: Munib Jamil
 
 # Mobakar - AI Cancer Awareness
 
